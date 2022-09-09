@@ -1,0 +1,16 @@
+/* @media screen and (max-witdh:1200px){
+    
+} */
+@media screen and (max-width: 1190px){
+    .header_head_container {
+    max-width: 900px;
+}
+.logo_box{
+    max-width: 200px;
+}
+.header_ul{
+    max-width: 800px;
+    /* gap:20px; */
+}
+
+}
